@@ -110,20 +110,20 @@ Receive instant diabetes risk predictions using trained ML models.
 
 ## How to Run the Project
 
-### Clone the repo:
+### 1. Clone the repo:
 
 git clone https://github.com/Afonsofranca1/diabetes_risk_prediction.git
 , cd diabetes_risk_prediction
 
-### Install the dependencies:
+### 2. Install the dependencies:
 
 pip install -r requirements.txt
 
-### Run the app:
+### 3. Run the app:
 
 python app.py
 
-### Open your browser at http://127.0.0.1:8050
+### 4. Open your browser at http://127.0.0.1:8050
 
 ---
 
