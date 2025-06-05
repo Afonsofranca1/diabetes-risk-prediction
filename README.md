@@ -127,6 +127,14 @@ python app.py
 
 ---
 
+## Application Preview
+
+Here is a preview of the Diabetes Risk Prediction Dashboard:
+
+![App Screenshot](Dash.png)
+
+---
+
 ## Future Work
 
 - Hyperparameter tuning (GridSearch, RandomSearch)
