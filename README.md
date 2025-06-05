@@ -1,6 +1,6 @@
 # Diabetes Risk Prediction
 
-A machine learning project that predicts the likelihood of diabetes using patient health indicators from the Pima Indians Diabetes dataset.
+A machine learning project that predicts the likelihood of diabetes using patient health indicators from the Pima Indians Diabetes dataset. It features a web application built using Dash, allowing users to input patient information and receive predictions in real time.
 
 ---
 
@@ -56,13 +56,13 @@ Features include:
 
 ## Model Performance Summary
 
-| Metric            | Logistic Regression | Random Forest |
-|------------------|---------------------|---------------|
-| Accuracy          | **77%**              | **81%**        |
-| Precision         | 75%                  | 80%            |
-| Recall            | 68%                  | 76%            |
-| F1 Score          | 71%                  | 78%            |
-| ROC-AUC Score     | 0.81                 | 0.82           |
+| Metric        | Logistic Regression | Random Forest |
+|---------------|---------------------|----------------|
+| Accuracy      | 70.13%              | 77.92% |
+| Precision     | 58.7%               | 72.73% |
+| Recall        | 50.0%               | 59.26% |
+| F1 Score      | 54.0%               | 65.31% |
+| ROC-AUC       | 0.81               | 0.82 |
 
 *Random Forest outperformed Logistic Regression in all key metrics.*
 
@@ -88,10 +88,48 @@ Features include:
 
 ---
 
+## Web Application
+A simple and interactive Dash app is included. It allows users to:
+
+Input medical information like Glucose, BMI, Age, etc.
+
+Receive instant diabetes risk predictions using trained ML models.
+
+---
+
+## Project Structure
+
+- data/ # Dataset(s)
+- notebooks/ # Jupyter notebooks for EDA & modeling
+- models/ # Trained model files (e.g., model.pkl)
+- app.py # Dash web application
+- requirements.txt # Project dependencies
+- README.md # Project documentation
+
+---
+
+## How to Run the Project
+
+### Clone the repo:
+
+git clone https://github.com/Afonsofranca1/diabetes_risk_prediction.git
+, cd diabetes_risk_prediction
+
+### Install the dependencies:
+
+pip install -r requirements.txt
+
+### Run the app:
+
+python app.py
+
+### Open your browser at http://127.0.0.1:8050
+
+---
+
 ## Future Work
 
 - Hyperparameter tuning (GridSearch, RandomSearch)
-- Build a web app with Streamlit or Dash
 - Use a real-world dataset (e.g., hospital patient data)
 
 ---
