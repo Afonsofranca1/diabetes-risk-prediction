@@ -91,7 +91,6 @@ Features include:
 ## 🧪 Future Work
 
 - Hyperparameter tuning (GridSearch, RandomSearch)
-- Include SHAP or LIME for model explainability
 - Build a web app with Streamlit or Dash
 - Use a real-world dataset (e.g., hospital patient data)
 
