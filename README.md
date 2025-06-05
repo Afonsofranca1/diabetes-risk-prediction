@@ -51,8 +51,4 @@ Biomedical Engineer | Aspiring Data Scientist
 [afonsomanuelfranca@gmail.com]  
 [www.linkedin.com/in/afonso-frança]  
 
----
 
-## License
-
-This project is licensed under the MIT License.
