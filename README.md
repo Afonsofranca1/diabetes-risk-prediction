@@ -1,4 +1,3 @@
-"""
 # Diabetes Risk Prediction
 
 A machine learning project that predicts the likelihood of diabetes using patient health indicators from the Pima Indians Diabetes dataset.
