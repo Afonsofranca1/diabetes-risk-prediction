@@ -62,7 +62,7 @@ Features include:
 | Precision         | 75%                  | 80%            |
 | Recall            | 68%                  | 76%            |
 | F1 Score          | 71%                  | 78%            |
-| ROC-AUC Score     | 0.83                 | 0.87           |
+| ROC-AUC Score     | 0.81                 | 0.82           |
 
 *Random Forest outperformed Logistic Regression in all key metrics.*
 
