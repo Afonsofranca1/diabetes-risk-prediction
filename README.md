@@ -99,12 +99,12 @@ Receive instant diabetes risk predictions using trained ML models.
 
 ## Project Structure
 
-- data/ # Dataset(s)
-- notebooks/ # Jupyter notebooks for EDA & modeling
-- models/ # Trained model files (e.g., model.pkl)
-- app.py # Dash web application
-- requirements.txt # Project dependencies
-- README.md # Project documentation
+- data/ (Dataset(s))
+- notebooks/ (Jupyter notebooks for EDA & modeling)
+- models/ (Trained model files (e.g., model.pkl))
+- app.py (Dash web application)
+- requirements.txt (Project dependencies)
+- README.md (Project documentation)
 
 ---
 
