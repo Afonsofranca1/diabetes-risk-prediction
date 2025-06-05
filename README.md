@@ -78,12 +78,12 @@ Features include:
 ## 📌 Requirements
 
 
-pandas
-numpy
-matplotlib
-seaborn
-scikit-learn
-plotly
+- pandas
+- numpy
+- matplotlib
+- seaborn
+- scikit-learn
+- plotly
 
 
 ---
