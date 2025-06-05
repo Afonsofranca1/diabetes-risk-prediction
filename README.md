@@ -75,7 +75,7 @@ Features include:
 - Model interpretation is done using feature importance and confusion matrix
 
 
-## 📌 Requirements
+## Requirements
 
 
 - pandas
@@ -88,7 +88,7 @@ Features include:
 
 ---
 
-## 🧪 Future Work
+## Future Work
 
 - Hyperparameter tuning (GridSearch, RandomSearch)
 - Build a web app with Streamlit or Dash
@@ -96,7 +96,7 @@ Features include:
 
 ---
 
-⭐️ *If you found this project helpful, feel free to give it a star on GitHub!*
+*If you found this project helpful, feel free to give it a star on GitHub!*
 
 ## Author
 
