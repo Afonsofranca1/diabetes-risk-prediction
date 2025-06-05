@@ -74,38 +74,6 @@ Features include:
 - Class imbalance is handled via stratified sampling
 - Model interpretation is done using feature importance and confusion matrix
 
-## 📂 Project Structure
-
-
-diabetes_risk_prediction/
-│
-├── data/                 # Dataset and loading scripts
-├── notebooks/            # Jupyter Notebooks for EDA, modeling, evaluation
-├── requirements.txt      # Dependencies
-└── README.md             # Project overview
-
-
----
-
-## ⚙️ How to Run the Project
-
-
-# Clone this repo
-git clone https://github.com/YOUR_USERNAME/diabetes_risk_prediction.git
-cd diabetes_risk_prediction
-
-# Create a virtual environment (optional)
-python -m venv venv
-source venv/bin/activate  # On Windows: venv\Scripts\activate
-
-# Install dependencies
-pip install -r requirements.txt
-
-# Launch notebook
-jupyter notebook
-
-
----
 
 ## 📌 Requirements
 
